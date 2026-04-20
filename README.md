@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# JavaScript-implementando-CRUD
-Uso do JS para implementação CRUD
-=======
 ![Thumbnail](./thumb.png)
 
 # Memoteca
@@ -62,4 +58,3 @@ Para executar o frontend, abra o projeto no Visual Studio Code. Com a extensão 
 Acesse o frontend localmente em seu navegador:
 
 http://localhost:5500
->>>>>>> 662fd09 (Envia arquivos base)
